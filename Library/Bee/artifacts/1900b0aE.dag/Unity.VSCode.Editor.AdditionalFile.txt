@@ -1,1 +1,1 @@
-D:\git\jogos\jogopivotPlayer
+C:\Users\alessonbarros\Documents\Git jogos\Jogos Unity\pivotPlayerTest\PivotPlayer
