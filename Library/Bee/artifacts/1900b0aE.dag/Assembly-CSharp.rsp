@@ -380,7 +380,7 @@
 "Assets/Samples/Cinemachine/2.10.1/Cinemachine Example Scenes/Shared/Scripts/SimpleElevator.cs"
 "Assets/Samples/Cinemachine/2.10.1/Cinemachine Example Scenes/Shared/Scripts/SpawnInCircle.cs"
 "Assets/Samples/Cinemachine/2.10.1/Cinemachine Example Scenes/Shared/Scripts/ThirdPersonFollowDistanceModifier.cs"
-"Assets/Scripts/Player.cs"
+"Assets/Scripts/Player/Player.cs"
 -langversion:9.0
 /deterministic
 /optimize+
